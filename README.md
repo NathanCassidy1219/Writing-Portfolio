@@ -23,6 +23,13 @@ Currently I'm interested in:
 - Technical Writing Samples
 - Creative Writing Portfolio
 
+- ## Currently Learning
+
+- AI evaluation
+- Prompt engineering
+- Large language models
+
+
 ## Connect
 
 Portfolio: (coming soon)
