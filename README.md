@@ -26,7 +26,7 @@ Currently I'm interested in:
 ## Connect
 
 Portfolio: (coming soon)
-LinkedIn: www.linkedin.com/in/
-nathancassidy412
+
+LinkedIn: www.linkedin.com/in/nathancassidy412
 
 Email: jnathanaelcassidy@gmail.com
