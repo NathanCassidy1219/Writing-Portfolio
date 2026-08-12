@@ -3,9 +3,9 @@ Technical writer, researcher, and author exploring the intersection of science, 
 
 # Hi, I'm Nathanael Cassidy 👋
 
-I'm a Physics and Economics student at Washington & Jefferson College with a passion for technical writing, research, and artificial intelligence.
+I'm a Physics and Economics student at Washington & Jefferson College with interests in technical writing, research, and artificial intelligence.
 
-Currently I'm interested in:
+Currently I'm pursuing: 
 - 🤖 AI evaluation and prompt engineering
 - ✍️ Technical, academic, and creative writing
 - 📚 Physics, economics, and linguistics
@@ -29,6 +29,11 @@ Currently I'm interested in:
 - Prompt engineering
 - Large language models
 
+## Experience
+
+- Front Desk Agent — Homewood Suites / Courtyard
+- Air Force ROTC Cadet - Detachment 730
+- Physics & Economics Student - W&J College
 
 ## Connect
 
