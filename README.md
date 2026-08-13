@@ -24,7 +24,7 @@ Current Focus:
 This thesis examines the growing shortage of domestic STEM professionals in critical defense industries and proposes policy solutions to strengthen the U.S. workforce. The excerpt below illustrates my approach to policy analysis, research synthesis, and evidence-based argumentation.
 
 "To mitigate the shortage of domestic STEM workers and students, I propose that the 
-Department of Defense provides funding to STEM companies for the purpose of establishing 
+Department of Defense provides funding to STEM companies for the purpose of establishing s
 better connections with universities. Specifically, STEM companies and universities should work 
 in closer communication to determine the needs of the STEM workforce and how the universities 
 can help. As part of this, STEM companies should use funding provided to them by the DoD to 
@@ -34,7 +34,7 @@ a high number of foreign workers, but not enough domestic workers. However, attr
 domestic students to STEM and establishing easier access for them to enter the workforce would 
 help mitigate this problem. This is the aim of the strategies I put forth."
 
-→ [thesis/Senior Thesis.pdf](https://github.com/NathanCassidy1219/Senior-Thesis/blob/7ee823e0ef74db33dcb80f6d7731f912648c96ff/senior-thesis.pdf)
+→ [Senior Thesis](https://github.com/NathanCassidy1219/Senior-Thesis/blob/7ee823e0ef74db33dcb80f6d7731f912648c96ff/senior-thesis.pdf)
 ---
 
 ### ✍️ Technical Writing
