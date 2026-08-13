@@ -19,19 +19,31 @@ Current Focus:
 
 ## Featured Work
 
-### 📄 Senior Thesis
-**Fostering and Retaining Domestic STEM Students for National Defense**
+### 📄 Senior Thesis (March 2025)
+#### ***Securing Our Future: How the U.S. Can Foster and Retain Domestic STEM Students for National Defense***
+This thesis examines the growing shortage of domestic STEM professionals in critical defense industries and proposes policy solutions to strengthen the U.S. workforce. The excerpt below illustrates my approach to policy analysis, research synthesis, and evidence-based argumentation.
 
-Research exploring strategies to strengthen the domestic STEM workforce.
+"To mitigate the shortage of domestic STEM workers and students, I propose that the 
+Department of Defense provides funding to STEM companies for the purpose of establishing 
+better connections with universities. Specifically, STEM companies and universities should work 
+in closer communication to determine the needs of the STEM workforce and how the universities 
+can help. As part of this, STEM companies should use funding provided to them by the DoD to 
+establish closer relations with universities. The purpose of this would be to help feed the STEM 
+pipeline.4 As previously mentioned, the pipeline is currently supplying the STEM workforce with 
+a high number of foreign workers, but not enough domestic workers. However, attracting more 
+domestic students to STEM and establishing easier access for them to enter the workforce would 
+help mitigate this problem. This is the aim of the strategies I put forth."
+
+→ Read Full Thesis
 
 ---
 
 ### ✍️ Technical Writing
 
-#### “Keep It In the Family”: An Analysis of Perpetuated Psychological Suffering Inflicted by Familial Trauma
+#### “Keep It In the Family”: An Analysis of Perpetuated Psychological Suffering Inflicted by Familial Trauma (April 2026)
 "One of the primary means by which trauma is transferred between generations is through narratives. Introduced by Scottish-American philosopher Alasdair MacIntyre in his book After Virtue (1981), MacIntyre argues that the story of a human life can only be fully understood when viewed as a narrative within the context of other narratives. As MacIntyre articulates, “Someone may discover (or not discover) that he or she is a character in a number of narratives at the same time, some of them embedded in others,” (MacIntyre, 2022 p. 213). This is applicable in two senses: firstly, an individual’s life is one story woven through and predicated upon the stories of previous or concurrent individuals; secondly, an individual’s life is comprised of many storylines, each intertwined to form a coherent narrative. According to MacIntyre, this is how human identity is shaped: through the individual narratives people construct to articulate their story and the perpetuation and continuity of these narratives across generations."
 
-#### Tiocfaidh ár lá: The Cultural and Political Impacts of Language in Northern Ireland
+#### Tiocfaidh ár lá: The Cultural and Political Impacts of Language in Northern Ireland (March 2025)
 "Language serves many purposes. It acts as a key to understanding identities and cultures, as well as a medium for communicating thoughts and expressing feelings. However, as author Nick Green once eloquently stated, “Language is also a weapon. Language is used to control people. It’s mostly covert rather than overt…but still reflects the pulse of society in part or as a whole,” (Green Carlin and Orwell). During the time of The Troubles in Northern Ireland, both sides understood the notion of weaponizing language. They understood the power language holds as a means of dominance, influence, and control. Even amidst rampant violence and acts of terrorism, language was one of the primary weapons with which the conflict was fought. And it was as much a cultural weapon as it was political."
 
 ### 📖 Creative Writing
