@@ -9,7 +9,7 @@ I'm a Physics and Economics student at Washington & Jefferson College with inter
 - 🤖 AI evaluation and prompt engineering
 - ✍️ Technical, academic, and creative writing
 - 📚 Physics, economics, and linguistics
-- 🌍 Language learning (Russian, Irish, and German)
+- 🌍 Language learning (Russian, Irish, and Korean)
 
 ## Current Projects
 
