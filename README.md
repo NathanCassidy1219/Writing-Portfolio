@@ -5,7 +5,7 @@ Academic and analytical writer, researcher, and author exploring the intersectio
 
 I'm a Physics and Economics student at Washington & Jefferson College with interests in technical writing, research, and artificial intelligence.
 
-## Current Focus
+## Areas of Interest
 - 🤖 AI evaluation and prompt engineering
 - ✍️ Technical, academic, and creative writing
 - 📚 Physics, economics, and linguistics
@@ -15,7 +15,7 @@ I'm a Physics and Economics student at Washington & Jefferson College with inter
 
 - 📖 *The Silencer* — Science fiction novel
 - 🧠 *The Man* — Psychological thriller
-- 📝 Building my professional writing portfolio
+- 📝 Developing my professional writing portfolio
 
 ## Featured Work
 ### ✍️ Technical Writing
