@@ -45,7 +45,7 @@ help mitigate this problem. This is the aim of the strategies I put forth."
 #### Tiocfaidh ár lá: The Cultural and Political Impacts of Language in Northern Ireland (March 2025)
 "Language serves many purposes. It acts as a key to understanding identities and cultures, as well as a medium for communicating thoughts and expressing feelings. However, as author Nick Green once eloquently stated, “Language is also a weapon. Language is used to control people. It’s mostly covert rather than overt…but still reflects the pulse of society in part or as a whole,” (Green Carlin and Orwell). During the time of The Troubles in Northern Ireland, both sides understood the notion of weaponizing language. They understood the power language holds as a means of dominance, influence, and control. Even amidst rampant violence and acts of terrorism, language was one of the primary weapons with which the conflict was fought. And it was as much a cultural weapon as it was political."
 
-→ [Read Full Paper]()
+→ [Read Full Paper](https://github.com/NathanCassidy1219/Tiocfaidh-ar-la/blob/14879daafd9eb0fbbe92983a7da3dce17b5b8bd3/Tiocfaidh%20ar%20la-%20The%20Cultural%20and%20Political%20Impacts%20of%20Language%20in%20Northern%20Ireland.pdf)
 
 ### 📖 Creative Writing
 #### *The Silencer* (In Progress)
