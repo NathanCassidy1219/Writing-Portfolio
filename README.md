@@ -5,7 +5,7 @@ Academic and analytical writer, researcher, and author exploring the intersectio
 
 I'm a Physics and Economics student at Washington & Jefferson College with interests in technical writing, research, and artificial intelligence.
 
-## Current Focus: 
+## Current Focus
 - 🤖 AI evaluation and prompt engineering
 - ✍️ Technical, academic, and creative writing
 - 📚 Physics, economics, and linguistics
