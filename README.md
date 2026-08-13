@@ -49,7 +49,7 @@ help mitigate this problem. This is the aim of the strategies I put forth."
 #### *The Silencer* 
 "It has been snowing in the northwestern region of Aranel for three months now without end. The West is an unforgiving wasteland during the cold season. But the people here are kinder than those in the East—considering there are none. I am the only soul brave, or perhaps foolish enough to attempt survival in the endless white expanse known as Asherfelt. Located in the northwesternmost part of Aranel, the sixth planet within the Inner Ring, Asherfelt is nothing more than a barren tundra. The temperatures here are so cold during the winter months, even the Ice Giants fear the deadly frost. But I did not come to reside in Asherfelt by my free will." 
 
-#### *The Man*.
+#### *The Man*
 "The Coworker rings the Man’s doorbell at exactly 7:15 p.m. This pleases the Man. He opens the door and invites the Coworker inside. The Coworker takes his seat at the dining room table. It has already been arranged with the proper place settings. The Man prepares dinner as the Coworker talks. Incessantly. This irritates the Man. At exactly 7:45 p.m. the Man serves dinner. He made a specialty lamb dish. The lamb was imported from the United Kingdom. The Man appreciates fine food. The Coworker compliments his cooking several times. Afterwards, the Man opens a bottle of 1945 Romanée-Conti. He has been saving this wine for some time, reserving it for the proper occasion. Around 11:00 p.m. the Coworker finally stops talking. The Man cleans up dinner and goes to bed." 
 
 ## Currently Learning
@@ -60,9 +60,12 @@ help mitigate this problem. This is the aim of the strategies I put forth."
 
 ## Experience
 
-- Front Desk Agent — Homewood Suites / Courtyard
-- Air Force ROTC Cadet - Detachment 730
-- Physics & Economics Student - W&J College
+- ### Front Desk Agent & Part-Time Night Auditor
+  Homewood Suites by Hilton / Courtyard by Marriott
+- ### Air Force ROTC Cadet
+  Detachment 730
+- ### Physics & Economics Student
+  W&J College
 
 ## Connect
 
