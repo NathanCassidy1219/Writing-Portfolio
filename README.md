@@ -34,7 +34,7 @@ a high number of foreign workers, but not enough domestic workers. However, attr
 domestic students to STEM and establishing easier access for them to enter the workforce would 
 help mitigate this problem. This is the aim of the strategies I put forth."
 
-→ [📄 Read Full Thesis](thesis/senior-thesis.pdf)
+→ ➡️ [Read the full thesis](thesis/Senior Thesis - Final Draft.pdf)
 ---
 
 ### ✍️ Technical Writing
