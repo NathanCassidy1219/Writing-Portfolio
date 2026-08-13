@@ -18,9 +18,9 @@ I'm a Physics and Economics student at Washington & Jefferson College with inter
 - 📝 Building my professional writing portfolio
 
 ## Featured Work
+### ✍️ Technical Writing
 
-### 📄 Senior Thesis (March 2025)
-#### ***Securing Our Future: How the U.S. Can Foster and Retain Domestic STEM Students for National Defense***
+#### ***Securing Our Future: How the U.S. Can Foster and Retain Domestic STEM Students for National Defense*** (March 2025)
 This thesis examines the growing shortage of domestic STEM professionals in critical defense industries and proposes policy solutions to strengthen the U.S. workforce. The excerpt below illustrates my approach to policy analysis, research synthesis, and evidence-based argumentation.
 
 "To mitigate the shortage of domestic STEM workers and students, I propose that the 
@@ -36,7 +36,6 @@ help mitigate this problem. This is the aim of the strategies I put forth."
 
 → [Read Full Thesis](https://github.com/NathanCassidy1219/Senior-Thesis/blob/7ee823e0ef74db33dcb80f6d7731f912648c96ff/senior-thesis.pdf)
 
-### ✍️ Technical Writing
 #### “Keep It In the Family”: An Analysis of Perpetuated Psychological Suffering Inflicted by Familial Trauma (April 2026)
 "One of the primary means by which trauma is transferred between generations is through narratives. Introduced by Scottish-American philosopher Alasdair MacIntyre in his book After Virtue (1981), MacIntyre argues that the story of a human life can only be fully understood when viewed as a narrative within the context of other narratives. As MacIntyre articulates, “Someone may discover (or not discover) that he or she is a character in a number of narratives at the same time, some of them embedded in others,” (MacIntyre, 2022 p. 213). This is applicable in two senses: firstly, an individual’s life is one story woven through and predicated upon the stories of previous or concurrent individuals; secondly, an individual’s life is comprised of many storylines, each intertwined to form a coherent narrative. According to MacIntyre, this is how human identity is shaped: through the individual narratives people construct to articulate their story and the perpetuation and continuity of these narratives across generations."
 
